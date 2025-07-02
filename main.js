@@ -9,7 +9,7 @@ function addiere(a, b) {
 }
 
 // Beispielaufruf der Additionsfunktion
-const ergebnis = addiere(5, 3);
+const ergebnis = addiere(7, 3);
 console.log("Das Ergebnis der Addition ist: " + ergebnis);
 
 // Schleifenbeispiel
